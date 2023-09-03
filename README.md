@@ -2,6 +2,10 @@ NETLIFY HOSTED LINK
 
 https://jovial-biscuit-a1f6c1.netlify.app
 
+I TRIED MAKING CLONE OF 
+
+https://preview.colorlib.com/theme/fitnessclub/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
